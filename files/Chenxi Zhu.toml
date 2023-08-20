@@ -1,0 +1,36 @@
+[editor]
+name = "Chenxi Zhu"
+degree = "Master's, 2023"
+
+[article.1]
+title = "Psychological impact of coronavirus-related social isolation in Colombia after a year of lockdown"
+doi = "https://doi-org.libproxy.ucl.ac.uk/10.1111/spc3.12761"
+authors = "Javier Andrés Gómez-Díaz & Leonardo Francisco Barón-Birchenall"
+journal = "Social and Personality Psychology Compass"
+publish = "Volume 17, Issue 7, 01 May 2023"
+category = "Emotion"
+summary = "该研究分析了哥伦比亚COVID-19期间封锁一年对情感和行为的影响，结果显示女性、失业者和法律或计算领域的人士情绪更受消极情绪影响，而高收入和教育水平的人则对病毒的恐惧较小、情绪较积极，更多地采取防疫行为。"
+abstract = "Several repercussions of the COVID-19 pandemic and its subsequent isolation period have been reported worldwide. In this paper, we analyze the behavioral and emotional effects of 1 year of coronavirus-related lockdown in Colombia. A cross-sectional correlational design was used on a sample of 1853 participants from different regions, and with different levels of education, income, and employment situations. We applied the fear of coronavirus scale, the use of preventive behaviors scale, and a scale to measure pleasant and unpleasant emotions based on the circumplex model of affect. Our data shows that women, participants who were unemployed during the lockdown, and participants that study or work in legal, computational, or related fields, have been more affected in terms of unpleasant emotions. In addition, we observed a trend towards a relation between higher income and educational levels with lower degrees of fear, higher degrees of pleasant emotions, and a greater use of preventive behaviors related to the pandemic."
+keywords = "contagious disease, COVID-19, lockdown, mental health, pandemic, social deprivation, unpleasant emotions"
+
+[article.2]
+title = "How Black Is Biracial? Black People's Empathy Toward Black/White Biracial People Following Racial Discrimination in the United States"
+doi = "https://doi.org/10.1037/cdp0000586"
+authors = "Analia F. Albuja, Marisa G. Franco, & Richard E. Smith"
+journal = "Cultural Diversity & Ethnic Minority Psychology"
+publish = "Volume 29, Issue 3, 25 May 2023"
+category = "Culture"
+summary = "该研究探讨了在美国黑人对于遭受种族歧视的黑白混血人的共情与黑白混血人的种族身份认同之间的关系。研究结果表明，黑人对自我认同为白人的黑白混血人的共情程度最低，而对自我认同为黑人的黑白混血人的共情程度最高，这种关系是由于黑白混血人与黑人的命运被视为相互关联所引起的。"
+abstract = "Objectives: Two studies investigate how Black people's empathy toward Black/White Biracial people experiencing racial discrimination relates to Black/White Biracial people's identification in the United States. Method: Study 1 (N = 151, Mage = 36.3 years, SD = 11.1, 57% female) examines how Black people's perceptions of whether Black/White Biracial people identify as Black at a group level are related to empathy toward them through correlational methods. In Study 2 (N = 590; Mage = 32.3 years, SD = 11.4, 71% women), we experimentally manipulate Black/White Biracial people's racial identity through vignettes and assess Black participants' perceived similarity, racial identification of the Black/White Biracial target as Black, linked fate, and empathy. We tested Black participants' empathy toward a Black/White Biracial target who self-identified as Black, self-identified as White, or self-identified as Biracial, consistent with common identification patterns among Biracial people. Results: Black participants empathized least with Black/White Biracial people who were perceived as identifying as White, or who explicitly self-identified as White. This association was mediated by perceptions that Black/White Biracial and Black people's fates are linked. Overall, Black people were most likely to empathize with Black/White Biracial people identifying as Black. Conclusions: For liminal group members, identification confers information regarding similarity, shared identity, and linked fate that relate to procuring empathy."
+keywords = "empathy, racial identify, ingroup benefits, intergroup relations, Biracial"
+
+[article.3]
+title = "Children's Cross-Cultural Categorizations of Racially Ambiguous Faces in Taiwan and the U.S."
+doi = "https://doi.org/10.1037/cdp0000513"
+authors = "Gaither, Sarah E.; Chen, Chun-Man; Neal, Samantha; Chien, Sarina Hui-Lin"
+journal = "Cultural Diversity & Ethnic Minority Psychology"
+publish = "Volume 29, Issue 3, 31 Jan 2022"
+category = "Face"
+summary = "该研究探讨了文化对双种族面孔分类的影响，发现台湾和亚裔美国儿童都更倾向于将黑白混血面孔视为白人。对于亚洲人/白人的双种族面孔，有种族恒定信念的台湾儿童将面孔归类为白人的比例明显更高，而没有种族恒定信念的台湾儿童将面孔归类为亚洲人的比例明显更高。"
+abstract = "Objectives: Racially ambiguous face categorization research is growing in prominence, and yet the majority of this work has focused on White and Western samples and has primarily used biracial Black/White stimuli. Past findings suggest that biracial Black/White faces are more often seen as Black than White, but without testing these perceptions with other groups, generalizability cannot be guaranteed. Methods: We tested 3-7-year-old Asian children living in Taiwan-an Eastern cultural context (N = 74)-and Asian children living in the U.S.-a Western cultural context (N = 65) to explore the role that cultural group membership may play in biracial perceptions. Children categorized 12 racially ambiguous biracial Black/White faces and 12 biracial Asian/White faces in a dichotomous forced-choice task and completed a racial constancy measurement. Results: Regarding biracial Black/White faces, Taiwanese and Asian American children both categorized the faces as White significantly more often compared to chance levels, regardless of racial constancy beliefs. For biracial Asian/White faces, Taiwanese children with racial constancy beliefs categorized the faces significantly more often as White, whereas Taiwanese children without racial constancy beliefs categorized the faces significantly more often as Asian. However, Asian American children did not show a bias in categorizing biracial Asian/White faces. Conclusions: Results suggest that hyperdescent over hypodescent for more commonly studied biracial Black/White faces generalizes in both cultural contexts. However, biracial Asian/White stimuli may be perceived in more fixed-like patterns in predominately Asian contexts, since only Taiwanese children showed increased outgroup categorizations once racial constancy beliefs were endorsed."
+keywords = "ambiguous, face perceptions, cross-cultural, biracial, social development"
