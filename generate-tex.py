@@ -3,7 +3,7 @@ import os
 
 month = 7
 
-editor_in_chief = ["Shuoan Li, Undergraduate, 2022", "Feixuan Du, Undergraduate, 2020"]
+editor_in_chief = ["Qing Gu, Undergraduate, 2018", "Hongxu Zhou, Undergraduate, 2019"]
 
 editors = []
 
@@ -30,7 +30,7 @@ journals = []
 categories = {}
 for editor in editors:
     associate_editor.append(
-        editor["editor"]["name"] + ", " + editor["editor"]["degree"]
+        editor["editor"]["name"].title() + ", " + editor["editor"]["degree"]
     )
     for key in editor["article"]:
         article = editor["article"][key]
@@ -39,6 +39,7 @@ for editor in editors:
             journals.append(journal)
         given_categories = [c.strip() for c in article["category"].split(',')]
         for category in given_categories:
+            category = category.capitalize()
             if category not in categories:
                 categories[category] = []
             categories[category].append(article)
@@ -133,10 +134,11 @@ for category in categories:
             + article["doi"]
             + "}{\\color{blue} \\ul{"
             + article["title"]
-            + "}}"
+            + "}}\\vspace{.01\\textheight}"
         )
-        print("\n\\footnotesize{" + article["authors"] + "}\n")
+        print("\n\\footnotesize{" + article["authors"] + "}\n\\vspace{.01\\textheight}")
         print(article["summary"])
+        print("\n\\vspace{.01\\textheight}")
     print("\\end{enumerate}")
 print(
     """
@@ -171,7 +173,7 @@ for category in categories:
         print("\n\\hspace*{\\fill}\n")
         print("\n\\textbf{Abstract:}")
         print(article["abstract"])
-        print("\n\\textbf{Keywords:} " + article["keywords"])
+        print("\n\\vspace{.01\\textheight}\\textbf{Keywords:} " + article["keywords"])
         print("\\end{frame}")
         generated_articles.append(article)
 
