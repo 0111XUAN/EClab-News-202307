@@ -1,0 +1,18 @@
+[editor]
+name = "Ruotong Wang"
+degree = "Undergraduate, 2020"
+
+
+[article.1]
+title = "It’s who, not what that matters: personal relevance and early face processing"
+doi = "https://doi.org/10.1093/scan/nsad021 "
+authors = "Mareike Bayer, Tom Johnstone, Isabel Dziobek"
+journal = "Social Cognitive and Affective Neuroscience"
+publish = "Volume 18, Issue 1, 2023"
+category = "Face, Emotion"
+summary = "这项研究观察了女性参与者对伴侣、亲密朋友和陌生人的面部表情（恐惧、快乐、中性）的反应。结果显示，伴侣的面部活动在不同时间点显示出振幅增加，包括P1、早期后向负性、P3和晚期正性分量，而这种反应似乎不受情绪类型的影响。"
+abstract = "The faces of our friends and loved ones are among the most pervasive and important social stimuli we encounter in our everyday lives. We employed electroencephalography to investigate the time line of personally relevant face processing and potential interactions with emotional facial expressions by presenting female participants with photographs of their romantic partner, a close friend and a stranger, displaying fearful, happy and neutral facial expressions. Our results revealed elevated activity to the partner’s face from 100 ms after stimulus onset as evident in increased amplitudes of P1, early posterior negativity, P3 and late positive component, while there were no effects of emotional expressions and no interactions. Our findings indicate the prominent role of personal relevance in face processing; the time course of effects further suggests that it might not rely solely on the core face processing network but might start even before the stage of structural face encoding. Our results suggest a new direction of research in which face processing models should be expanded to adequately capture the dynamics of the processing of real-life, personally relevant faces."
+keywords = "personal relevance, faces, emotion, familiarity, ERPs"
+
+
+
