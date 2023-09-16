@@ -1,0 +1,36 @@
+[editor]
+name = "Feixuan DU"
+degree = "Undergraduate, 2020"
+
+[article.1]
+title = "Chronic stress and stressful emotional contagion affect the empathy-like behavior of rats"
+doi = "https://doi.org/10.3758/s13415-023-01081-9"
+authors = "Yishan Qu, Lizi Zhang, Shucheng An, Fadao Tai & Hui Qiao"
+journal = "Cognitive, Affective & Behavioral Neuroscience"
+publish = "Volume 23, issue 4, 1 Aug 2023"
+category = "Emotion"
+summary = "移情是亲社会行为的一种潜在动机，与许多精神疾病有关，为了阐明移情与应激之间的关系，研究者建立了一种慢性应激传染(SC)程序与慢性不可预测轻度应激(CUMS)相结合的方法，得到结果慢性压力会损害移情行为，而社会接触会缓冲CUMS的影响。因此，社会接触或压力传染对压力个体和非压力伙伴都是互利的。"
+abstract = "Empathy is a potential motivation for prosocial behaviors that is related to many psychiatric diseases, such as major depressive disorder; however, its neural mechanisms remain unclear. To elucidate the relationship between empathy and stress, we established a chronic stress contagion (SC) procedure combined with chronic unpredictable mild stress (CUMS) to investigate (1) whether depressive rats show impaired empathy-like behavior toward fearful conspecifics, (2) whether frequent social contact with normal familiar conspecifics (social support) alleviates the negative effects of CUMS, and (3) the effect of long-term exposure to a depressed partner on emotional and empathic responses in normal rats. We found that the CUMS group showed less empathy-like behavior in the social transfer of fear model (STFM), as indicated by less social interaction with the demonstrator and reduced freezing behavior in the fear-expression test. Social contact partially alleviated depression-like behaviors and the negative effect of CUMS in the fear-transfer test. The normal rats who experienced stress contagion from daily exposure to a depressed partner for 3 weeks showed lower anxiety and increased social response in the fear-transfer test than the control group. We concluded that chronic stress impairs empathy-like behaviors, while social contact partially buffers the effect of CUMS. Thus, social contact or contagion of stress is mutually beneficial to both stressed individuals and nonstressed partners. Higher dopamine and lower norepinephrine levels in the basolateral amygdala probably contributed to these beneficial effects."
+keywords = "Empathy, Stress, Depression, Basolateral amygdala, Dopamine, Norepinephrine"
+
+[article.2]
+title = "Weathering the storm of emotions: immediate and lasting effects of reinterpretation and distancing on event-related potentials and their association with habitual use of cognitive reappraisal"
+doi = "https://doi.org/10.3758/s13415-023-01105-4"
+authors = "Raphaela I. Zehtner, Marie K. Neudert, Axel Schäfer, Susanne Fricke, Rosa J. Seinsche, Rudolf Stark & Andrea Hermann"
+journal = "Cognitive, Affective & Behavioral Neuroscience"
+publish = "Volume 23, issue 4, 1 Aug 2023"
+category = "Emotion"
+summary = "重新解释和疏远的认知重评策略能在短期内有效减少负面情绪和事件相关电位(ERPs)，研究者指导被试被动观看或重新评价重复出现的图片，并进行相同的指导。研究结果强调了这两种策略对负面情绪主观体验的短期和持久影响的有效性。"
+abstract = "Reinterpretation and distancing, two cognitive reappraisal tactics, are known to effectively reduce negative feelings and event-related potentials (ERPs), such as the P300 and the late positive potential (LPP), in the short-term. Less is known about differential and lasting effects on ERPs as well as their association with habitual reappraisal. Fifty-seven participants were instructed to passively view or reappraise (reinterpretation, distancing) pictures that were repeatedly presented with the same instruction (active regulation phase). Thirty minutes later, these pictures were shown again without instruction for the assessment of lasting effects (re-exposure phase). ERPs were recorded and participants rated the intensity of negative feelings following picture presentation. Reappraisal led to an attenuation of the LPP, and both tactics decreased negative feelings during active regulation, whereby reinterpretation had a stronger impact on the subjective level. Passive re-exposure resulted in reduced negative feelings for previously reappraised pictures but had no lasting effects on ERPs. Higher habitual reappraisal was associated with higher P300 and early LPP amplitudes for emotional reactivity during the active regulation phase. During the re-exposure phase, higher habitual reappraisal was not related to ERPs. The current findings emphasize the effectiveness of both tactics in the short-term and lasting effects on the subjective experience of negative feelings. Enhanced emotional reactivity on the electrocortical level in individuals with a more frequent habitual use of reappraisal might indicate a higher preparedness to regulate."
+keywords = "Emotion regulation, Cognitive control, EEG, LPP, P300, Negative feelings, Neural"
+
+[article.3]
+title = "You Should Be Ashamed of Yourself: Culture and Shame Driven Personal Growth"
+doi = "https://doi.org/10.1177/00220221231183151"
+authors = "Nethmie Liyanage1, Ramila Usoof-Thowfeek"
+journal = "Journal of Cross-Cultural Psychology"
+publish = "Volume 54, issue 5, 1 Aug 2023"
+category = "Culture"
+summary = "羞耻感被视为一种负面的、破坏性的情绪，但在集体主义文化中非常普遍。研究者通过探讨羞耻感如何以及为什么促进个人成长，得到结论自我威胁的羞耻感可能更具破坏性而不是适应性，但集体主义文化倾向于利用羞耻感的积极潜力来确保成功的集体生活。"
+abstract = "Although shame is largely viewed as a negative, destructive emotion, it is very commonly exercised in collectivistic cultures. Shame, an emotion thought to confront the self, often leading to maladaptive self-defensive actions, has been shown to also harbor a positive potential that can motivate people toward self-improvement. Collectivistic cultures that promote shame appear to rely on this positive potential of shame. This article reviews available literature to explore how and why shame lends itself to personal growth in the collectivistic cultures, contradicting its evidenced tendency to provoke self-defense. An extensive study of the literature uncovered four cultural differences in the perception of self, namely, in self-esteem, self-enhancement, self-concept inconsistency, and incremental belief of self which this article argues lead to self-defensiveness or self-improvement. We also argue that lower levels of self-esteem and self-enhancement observed in collectivistic cultures, as well as the propensity to perceive self as inconsistent and incremental, facilitate the positive action potential of shame, preventing self-defense reactions. We conclude that, while self-threatening shame can be more destructive than adaptive in certain cultures, collectivistic cultures tend to depend on their capacity to avail themselves of the positive potential of shame to ensure successful communal living."
+keywords = "Culture, Shame, Self, Growth"
