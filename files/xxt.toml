@@ -1,0 +1,18 @@
+[editor]
+name = "Xintong Xie" # 格式类似于Shuoan Li
+degree = "Undergraduate, 2020" # 格式类似于Undergraduate, 2022
+
+[article.1] # 罗马数字指定文献编号
+title = "The Profiles, Predictors, and Intergroup Outcomes of Cultural Attachment"
+doi = "https://doi.org/10.1177/01461672231190753" # 以https://doi.org/开头
+authors = "Yuanze Liu, Yubo Hou, and Ying-yi Hong"
+journal = "Personality and Social Psychology Bulletin"
+publish = "11 August 2023" # 如发发布年份，期号，卷号，页码
+category = "Cross-culture" # Emotion, Face, Cross-culture等，注意首字母大写
+summary = "这项研究验证了人们可以对他们的文化群体发展不同的文化依恋风格（即安全，专注，忽视和恐惧），这些风格受到各种社会、人际和个人因素的影响。牢固依附于自己文化的人会感知到更少的群体外威胁，表现出更多的身份包容性，持有更少的群体间偏见和过度的集体自尊，表现出更多参与群体间接触的意愿，并表现出更好的心理功能。" # 中文的概括
+abstract = "The recent backlash against cultural globalization has raised a conundrum regarding how individuals should navigate their relationship with their cultural groups to both meet their basic need for belongingness and embrace diversity to fully leverage the benefits of globalization. Here we take an attachment perspective to tackle this issue. Employing both person- and variable-centered approaches in two studies (n1 = 328; n2 = 1,317), we verify that people can develop different cultural attachment styles toward their cultural groups (i.e., secure, preoccupied, dismissing, and fearful), which are influenced by various societal, interpersonal and intrapersonal factors. People who securely attach to their cultures will perceive less out-group threat, exhibit more identity inclusiveness, hold less intergroup biases and excessive collective self-esteem, display a greater willingness to engage in intergroup contact, and demonstrate better psychological functioning. All these effects of cultural attachment are independent from and incremental to those of general and place attachment." # 用英文逗号分隔
+
+[article.2] # 参照article.1
+...
+
+[article.3]
